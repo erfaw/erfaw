@@ -23,10 +23,22 @@
 ### Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,git,docker,selenium,sqlalchemy," alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,git,docker,selenium" alt="Core Stack" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
   <img src="https://img.shields.io/badge/Pytest-Testing-blue?style=for-the-badge&logo=pytest" alt="Pytest" />
   <img src="https://img.shields.io/badge/drf--spectacular-Swagger%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010" alt="drf-spectacular" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI%20Toolkit-FFCC00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
+
+### Front Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,css,bootstrap,html" alt="Front Stack" />
+</p>
+
