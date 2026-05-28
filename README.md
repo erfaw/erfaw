@@ -23,7 +23,7 @@
 ### Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,git,docker,selenium" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,git,docker,selenium,sqlite,postgres" alt="Core Stack" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
@@ -42,3 +42,7 @@
   <img src="https://skillicons.dev/icons?i=js,css,bootstrap,html" alt="Front Stack" />
 </p>
 
+### University Coursework level
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java" alt="University Coursework level" />
+</p>
