@@ -47,3 +47,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,java" alt="University Coursework level" />
 </p>
+
+### Operating Systems
+Windows, Linux (basic command-line proficiency)
+
+### Software Engineering Concepts
+  Algorithms, Data Structures, Software Testing, System Design, Version Control (Git)
+
+### Network Fundamentals
+Basic understanding of TCP/IP, routing, and Cisco CCNA-level concepts
+
+
