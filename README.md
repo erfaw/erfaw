@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Tkinter-GUI%20Toolkit-FFCC00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter" />
   <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/PyAutoGUI-GUI%20Automation-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
 </p>
 
 ### Front Stack
