@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Markazi(Arak)%2C%20Iran-0B132B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Back%20end-3A506B?style=for-the-badge&logo=shopify&logoColor=white" alt="Focus" />
 </p>
 
 ---
