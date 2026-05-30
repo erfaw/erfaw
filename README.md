@@ -16,6 +16,10 @@
 
 **Analytical Computer Engineering** Student proficient at the Mid to Advanced level in `Python` and possessing a **strong theoretical foundation** in `Software Engineering`. Currently engaged in the Udemy Courses alongside academic studies to deepen practical skills. Seeking a role that demands continuous skill advancement and offers opportunities to contribute to complex technical projects utilizing Python and object-oriented programming best practices.
 
+### How to Reach Me?
+ * Gmail : [erfawn.h@gmail.com](mailto:erfawn.h@gmail.com)
+ * Telegram : [@erfawn_hy](https://t.me/erfawn_hy)
+
 ---
 
 ## 🧰 Tech Universe
